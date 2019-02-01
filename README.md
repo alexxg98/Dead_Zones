@@ -1,9 +1,6 @@
 # Dead_Zones
 First project from ET_710 class at CUNY TechWorks QCC.
 
-Using HTML and CSS, create an informative website.
+An informative website using only HTML and CSS.
 
-
-You can view this project via my portfolio https://alexxg98.github.io/
-
-or using this link: https://alexxg98.github.io/subpages/deadZones/index.html
+You can view this project using this link: https://alexxg98.github.io/Dead_Zones/
